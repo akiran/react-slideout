@@ -1,0 +1,29 @@
+{
+  "name": "react-slideout",
+  "version": "0.1.0",
+  "description": "react component for slideout menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akiran/react-slideout.git"
+  },
+  "keywords": [
+    "react",
+    "offcanvas",
+    "menu",
+    "slideout",
+    "mobile",
+    "sidenav",
+    "sidebar",
+    "react-component"
+  ],
+  "author": "Kiran Abburi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akiran/react-slideout/issues"
+  },
+  "homepage": "https://github.com/akiran/react-slideout#readme"
+}
